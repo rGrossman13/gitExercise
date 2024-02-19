@@ -4,5 +4,7 @@ public class Main {
         System.out.println("Hi there ser");
         System.out.println("oh no I think my rule did not set in");
         System.out.println("oh no I think my rule did not set in");
+        System.out.println("oh no I think my rule did not set in");
     }
 }
+
